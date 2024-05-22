@@ -1,0 +1,13 @@
+table{
+    width:100%
+}
+th,td{
+    border: 1px;
+    text-align: center;
+}
+th{
+    background-color: aqua;
+}
+tr{
+    background-color: whitesmoke;
+}

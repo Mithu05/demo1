@@ -1,0 +1,24 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(255, 94, 0);
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../biryani.jpg);
+}
+header{
+    background-color: beige;
+    color: green;
+    text-align: center;
+    font-size: x-large;
+}
+nav{
+    background-color: aliceblue;
+    text-align: left;
+    padding: 0%;
+}
+
+footer{
+    background: fixed;
+    text-align: center;
+
+}
